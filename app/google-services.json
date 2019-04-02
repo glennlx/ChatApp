@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190087029496",
+    "firebase_url": "https://chatapp-ea88f.firebaseio.com",
+    "project_id": "chatapp-ea88f",
+    "storage_bucket": "chatapp-ea88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190087029496:android:38fcf16c4e1a38e0",
+        "android_client_info": {
+          "package_name": "com.example.pooja.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190087029496-rijm3cb2mvbpcf6bp3ij9s0i51rg0v7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pooja.chatapp",
+            "certificate_hash": "d01da1f35c4904e6e6ec89eed643f24c0b4cb39d"
+          }
+        },
+        {
+          "client_id": "190087029496-l1onas3icd1dlugrocdqj35gu0mm68eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ByT6lG_UmzuQkmrMtO9qgTvf6Temdjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190087029496-l1onas3icd1dlugrocdqj35gu0mm68eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
